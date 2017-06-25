@@ -1,5 +1,3 @@
-# rain
-
 rain-frontend
 ===================
 rain frontend web
